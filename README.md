@@ -4,7 +4,7 @@ Este proyecto es una calculadora desarrollada utilizando TDD (Desarrollo Guiado 
 
 ## Descripción
 
-La calculadora ha sido creada con el enfoque de TDD, lo que significa que cada funcionalidad ha sido diseñada y probada incrementalmente. Se ha utilizado vitest como entorno ficticio para ejecutar las pruebas unitarias y @vitejs/plugin-react junto con "@testing-library/react" para realizar las pruebas con React. Esto garantiza que la calculadora esté bien probada y funcione correctamente en un entorno React.
+La calculadora ha sido creada con el enfoque de TDD, lo que significa que cada funcionalidad ha sido diseñada y probada incrementalmente. Se ha utilizado vitest como entorno ficticio para ejecutar las pruebas unitarias y @vitejs/plugin-react junto con "@testing-library/react" para realizar las pruebas con React. Esto garantiza que la calculadora esté bien probada y funcione correctamente.
 
 Además de las pruebas para la calculadora, también se han incluido pruebas para otras dos funciones. Estas pruebas se centran en la lógica de JavaScript, mientras que las pruebas de la calculadora se centran en la interfaz de usuario.
 
